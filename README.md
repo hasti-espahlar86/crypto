@@ -1,44 +1,45 @@
-# Crypto Utility 🔒
+# 🔒 Crypto Utility — Python Cryptographic Toolkit
 
-A Python‑based console utility for cryptographic operations and secure processing of text or passwords.  
-This project provides simple and customizable crypto functions designed to be easy to use and extend.
-
----
-
-## Overview
-
-The `crypto.py` script includes functionality for cryptographic tasks such as:
-
-- Generating secure hashes  
-- Encoding or decoding text  
-- Using standard cryptographic algorithms  
-- Demonstrating practical uses of Python security libraries  
-
-This application focuses on clarity, modular design, and reliability.
+Welcome to **Crypto Utility**, a clean and user‑friendly Python console tool for basic cryptographic tasks.  
+This project helps you generate secure hashes, encode/decode text, and explore cryptographic operations with clarity and simplicity.
 
 ---
 
-## Features
+## 🧠 What This Tool Does
 
-- 🔑 Secure hash generation  
-- 🔒 Encoding and decoding utilities  
-- 🧠 Modular structure for easy expansion  
-- 💻 Terminal-based usage (no GUI)  
-- 📦 Standard Python library compatibility  
+This utility provides practical cryptography features in a Python console application:
+
+- 🔑 **Hash Generation:** Create secure and unique hashes for text or passwords  
+- 🔄 **Encoding/Decoding:** Transform text using standard encoding schemes  
+- 🔍 **Modular Crypto Functions:** Easily extend or experiment with cryptography logic  
+- 🗂️ **Python Standard Library:** No external dependencies — runs with built‑in modules  
+
+This project is designed for learners, developers, and anyone curious about how basic cryptographic tools work.
 
 ---
 
-## Requirements
+## 🚀 Key Features
+
+- 🔐 Secure hash creation (e.g., SHA256)
+- 🔄 Text encoding and decoding tools
+- 🧩 Modular and readable code
+- 💻 Console‑based interaction (no GUI required)
+- 📦 Python standard library compatibility
+
+---
+
+## 🛠 Requirements
 
 - Python 3.x  
-- Standard Python libraries (no third-party dependencies unless specified)  
+- No third‑party libraries — just the standard library
 
 ---
 
-## How to Run
+## 🏁 How to Run
 
 ```bash
 git clone https://github.com/hasti-espahlar86/crypto.git
 cd crypto
 python crypto.py
+
 

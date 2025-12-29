@@ -1,45 +1,49 @@
 # 🔒 Crypto Utility — Python Cryptographic Toolkit
 
-Welcome to **Crypto Utility**, a clean and user‑friendly Python console tool for basic cryptographic tasks.  
-This project helps you generate secure hashes, encode/decode text, and explore cryptographic operations with clarity and simplicity.
+**Crypto Utility** is a lightweight, console-based Python toolkit designed for learning and experimenting with core cryptographic concepts using only the Python standard library.
+
+This project focuses on clarity, simplicity, and clean code, making it ideal for beginners who want to understand how cryptographic utilities work under the hood.
 
 ---
 
-## 🧠 What This Tool Does
+## 📌 Overview
 
-This utility provides practical cryptography features in a Python console application:
+Crypto Utility allows you to perform basic cryptographic operations such as hashing and text encoding/decoding through a simple command-line interface.
 
-- 🔑 **Hash Generation:** Create secure and unique hashes for text or passwords  
-- 🔄 **Encoding/Decoding:** Transform text using standard encoding schemes  
-- 🔍 **Modular Crypto Functions:** Easily extend or experiment with cryptography logic  
-- 🗂️ **Python Standard Library:** No external dependencies — runs with built‑in modules  
-
-This project is designed for learners, developers, and anyone curious about how basic cryptographic tools work.
+It is intentionally dependency-free and written with modular, readable code to encourage learning, customization, and extension.
 
 ---
 
-## 🚀 Key Features
+## ✨ Features
 
-- 🔐 Secure hash creation (e.g., SHA256)
-- 🔄 Text encoding and decoding tools
-- 🧩 Modular and readable code
-- 💻 Console‑based interaction (no GUI required)
-- 📦 Python standard library compatibility
+- 🔐 Generate secure hashes (e.g. SHA-256)
+- 🔄 Encode and decode text using standard methods
+- 🧩 Modular function design for easy extension
+- 💻 Interactive console-based interface
+- 📦 Uses only Python’s built-in standard library
+
+---
+
+## 🎯 Use Cases
+
+- Learning basic cryptography concepts
+- Understanding how hashing and encoding work in Python
+- Practicing clean and modular Python code
+- Building a foundation for more advanced security projects
 
 ---
 
 ## 🛠 Requirements
 
-- Python 3.x  
-- No third‑party libraries — just the standard library
+- Python 3.8 or higher
+- No third-party libraries required
 
 ---
 
-## 🏁 How to Run
+## 🚀 Installation & Usage
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/hasti-espahlar86/crypto.git
-cd crypto
-python crypto.py
-
 
